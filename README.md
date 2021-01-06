@@ -29,5 +29,5 @@ Machine learning (ML) is a type of artificial intelligence (AI) that allows soft
  Discrete variable:
  It is characterized by the gaps or interruptions in the values that it can assume.
  eg:No of daily admissions to a general hospital.
- 6)
+
        
